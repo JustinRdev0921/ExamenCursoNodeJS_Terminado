@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6085a55eb35acd12e8b19f93"
+  },
+  "estado": true,
+  "precio": 1,
+  "disponible": true,
+  "nombre": "LecheLALA",
+  "usuario": {
+    "$oid": "60844b0b60d0762cc4a92a5a"
+  },
+  "categoria": {
+    "$oid": "6085940f3384ce3bc0f08bae"
+  },
+  "descripcion": "lorem",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085a575b35acd12e8b19f94"
+  },
+  "estado": true,
+  "precio": 1,
+  "disponible": true,
+  "nombre": "Tomate",
+  "usuario": {
+    "$oid": "60844b0b60d0762cc4a92a5a"
+  },
+  "categoria": {
+    "$oid": "6085942bdd12052c882dd20f"
+  },
+  "descripcion": "lorem",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085a5e8b35acd12e8b19f95"
+  },
+  "estado": false,
+  "precio": 1,
+  "disponible": true,
+  "nombre": "Tomate2",
+  "usuario": {
+    "$oid": "60844b0b60d0762cc4a92a5a"
+  },
+  "categoria": {
+    "$oid": "6085942bdd12052c882dd20f"
+  },
+  "descripcion": "lorem",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085c528c4b7ae2e108b432e"
+  },
+  "estado": false,
+  "precio": 1,
+  "disponible": true,
+  "nombre": "Cebolla",
+  "usuario": {
+    "$oid": "60844b0b60d0762cc4a92a5a"
+  },
+  "categoria": {
+    "$oid": "6085942bdd12052c882dd20f"
+  },
+  "descripcion": "lorem",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085c5b009cd652948059de6"
+  },
+  "estado": false,
+  "precio": 1,
+  "disponible": true,
+  "nombre": "pepino",
+  "usuario": {
+    "$oid": "60844b0b60d0762cc4a92a5a"
+  },
+  "categoria": {
+    "$oid": "6085942bdd12052c882dd20f"
+  },
+  "descripcion": "lorem",
+  "__v": 0
+}]

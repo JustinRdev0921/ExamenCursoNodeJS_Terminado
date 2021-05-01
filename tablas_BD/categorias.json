@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6085940f3384ce3bc0f08bae"
+  },
+  "estado": true,
+  "nombre": "Lacteos",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085942bdd12052c882dd20f"
+  },
+  "estado": true,
+  "nombre": "Ortalizas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085982f8e07d637148a69cc"
+  },
+  "estado": false,
+  "nombre": "Embutidos",
+  "__v": 0
+}]

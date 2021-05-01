@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6084361409ae6a05d072387d"
+  },
+  "rol": "CLIENT_ROLE",
+  "estado": true,
+  "nombre": "Alex",
+  "correo": "alex@gmail.com",
+  "password": "$2a$10$bWDmqIZYb6Uyr8R9J6S/Bez4/OM34adKVKlAeo7qXqhsIDcfKYmqC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608441277fb67628b0e473d5"
+  },
+  "rol": "ADMIN_ROLE",
+  "estado": true,
+  "nombre": "Alex",
+  "correo": "alex1@gmail.com",
+  "password": "$2a$10$X4Dmi6kNRpOLyjtzqlek8uPNmo0D3XWQmw5NZLAjIXQXzp6HVqzxK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60844b0b60d0762cc4a92a5a"
+  },
+  "rol": "CLIENT_ROLE",
+  "estado": true,
+  "nombre": "Juan",
+  "correo": "juanxd@gmail.com",
+  "password": "$2a$10$WvB62Iv.oVj/otwfQBxwzOYGSG1iIoYnrJpmWMzeazZx7pyjCJJ.y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60847a094e80ae0e68409a09"
+  },
+  "rol": "ADMIN_ROLE",
+  "estado": true,
+  "nombre": "Fer",
+  "correo": "fer20@gmail.com",
+  "password": "$2a$10$1cEJRrwadN9AHZdO3WOLSeaqD4oN.O70y6uR69WAN7SMKsZz3oBpC",
+  "__v": 0
+}]

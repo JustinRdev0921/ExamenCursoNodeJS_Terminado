@@ -1,0 +1,2 @@
+Link público de la collección de peticiones en Postman:
+https://www.getpostman.com/collections/7e1e0907971655c1ff38
